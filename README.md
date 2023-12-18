@@ -1,3 +1,3 @@
 # hello-github
-This is my first Git Repository
+This is my first Git Repository.
 Aurhor - Dhruv Gupta
